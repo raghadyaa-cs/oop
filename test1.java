@@ -2,6 +2,9 @@ package edu.zuj.oop.pkg16.week3.lec1.hw1;
 import java.util.Scanner;
 public class test1 {
   public static void main(String[] args) {
+    /**
+    create a program that works as a unit converter
+ */
     Scanner s = new Scanner (System.in);
     System.out.print("enter a number : ");
    int x = s.nextInt();
@@ -71,3 +74,4 @@ System.out.println("the following is a list the unit conversions that can be per
    
     }
 }
+
